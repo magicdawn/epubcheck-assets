@@ -1,0 +1,34 @@
+{
+  "name": "epubcheck-assets",
+  "version": "5.1.0",
+  "description": "epubcheck jar assets",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "files": [
+    "index.js",
+    "index.d.ts",
+    "assets/epubcheck-5.1.0/"
+  ],
+  "scripts": {
+    "test": "vitest run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/magicdawn/epubcheck-assets.git"
+  },
+  "keywords": [
+    "epubcheck",
+    "epub"
+  ],
+  "author": "magicdawn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/magicdawn/epubcheck-assets/issues"
+  },
+  "homepage": "https://github.com/magicdawn/epubcheck-assets#readme",
+  "devDependencies": {
+    "@types/node": "^20.4.2",
+    "dl-vampire": "^1.4.1",
+    "vitest": "^0.33.0"
+  }
+}
