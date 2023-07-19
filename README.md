@@ -2,6 +2,11 @@
 
 > the https://github.com/w3c/epubcheck release assets published on npm.
 
+[![Build Status](https://img.shields.io/github/actions/workflow/status/magicdawn/epubcheck-assets/ci.yml?style=flat-square&branch=main)](https://github.com/magicdawn/epubcheck-assets/actions/workflows/ci.yml)
+[![npm version](https://img.shields.io/npm/v/epubcheck-assets.svg?style=flat-square)](https://www.npmjs.com/package/epubcheck-assets)
+[![npm downloads](https://img.shields.io/npm/dm/epubcheck-assets.svg?style=flat-square)](https://www.npmjs.com/package/epubcheck-assets)
+[![npm license](https://img.shields.io/npm/l/epubcheck-assets.svg?style=flat-square)](http://magicdawn.mit-license.org)
+
 ## Install
 
 ```sh
